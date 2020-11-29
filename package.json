@@ -1,0 +1,8 @@
+{
+  "name": "discord-redirect",
+  "version": "1.0.0",
+  "description": "Cloudflare worker to open Discord links on Discord client.",
+  "main": "index.js",
+  "author": "Vicente015 <33096355+Vicente015@users.noreply.github.com>",
+  "license": "MIT"
+}
