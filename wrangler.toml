@@ -2,5 +2,5 @@ name = "discord"
 type = "javascript"
 account_id = "92322f027d9fb3ea2f2e114e887cb360"
 workers_dev = true
-route = "discordredirect.discordsafe.com/*"
-zone_id = "82af2ead6398631a3aa1ae4e2dc85f5e"
+route = "discord.vicente015.dev/*"
+zone_id = "74eec1c05293ac4fce451174ffb734b1"
