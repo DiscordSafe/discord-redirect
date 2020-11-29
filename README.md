@@ -15,6 +15,10 @@ Because if you go to https://discord.com/users/461171501715161108 it will go to 
 * Nitro Tab: https://discordredirect.discordsafe.com/store.
 * Friends Tab: https://discordredirect.discordsafe.com/channels/@me.
 * Library Tab: https://discordredirect.discordsafe.com/library.
+* Store Page (SKU ID): https://discordredirect.discordsafe.com/store/skus/241930933962407936.
+* Discovery Tab: https://discordredirect.discordsafe.com/guild-discovery.
+* Open the last changelog: https://discordredirect.discordsafe.com/settings/changelogs.
+* Create a guild: https://discordredirect.discordsafe.com/guilds/create
 
 ## Common errors
 ### Not working
