@@ -2,19 +2,19 @@
 Cloudflare worker to open Discord links on Discord client.
 
 ## Why?
-Because if you go to `https://discord.com/users/461171501715161108` it will go to the website but if you go to `https://discordredirect.discordsafe.com/users/461171501715161108` it will open on the client.
+Because if you go to https://discord.com/users/461171501715161108 it will go to the website but if you go to https://discordredirect.discordsafe.com/users/461171501715161108 it will open on the client. That's it.
 
 ## Usage
 `https://discordredirect.discordsafe.com/ENDPOINT`
 
 ## Examples
-* Users (UserID): `https://discordredirect.discordsafe.com/users/287574458963722240`.
-* Channels (GuildID, ChannelID): `https://discordredirect.discordsafe.com/channels/374953833828319232/504679420263661588`.
-* DM (UserID): `https://discordredirect.discordsafe.com/channels/@me/287574458963722240`.
-* Messages (GuildID, ChannelID, MessageID): `https://discordredirect.discordsafe.com/channels/374953833828319232/504679535598501898/782614104539922493`.
-* Nitro Tab: `https://discordredirect.discordsafe.com/store`.
-* Friends Tab: `https://discordredirect.discordsafe.com/channels/@me`.
-* Library Tab: `https://discordredirect.discordsafe.com/library`.
+* Users (UserID): https://discordredirect.discordsafe.com/users/287574458963722240.
+* Channels (GuildID, ChannelID): https://discordredirect.discordsafe.com/channels/374953833828319232/504679420263661588.
+* DM (UserID): https://discordredirect.discordsafe.com/channels/@me/287574458963722240.
+* Messages (GuildID, ChannelID, MessageID): https://discordredirect.discordsafe.com/channels/374953833828319232/504679535598501898/782614104539922493.
+* Nitro Tab: https://discordredirect.discordsafe.com/store.
+* Friends Tab: https://discordredirect.discordsafe.com/channels/@me.
+* Library Tab: https://discordredirect.discordsafe.com/library.
 
 ## Common errors
 ### Not working
