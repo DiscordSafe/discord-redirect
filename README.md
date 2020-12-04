@@ -1,5 +1,5 @@
 # discord-redirect
-Cloudflare worker to open Discord links on Discord client.
+Cloudflare worker to open Discord links in Discord client.
 
 ## Why?
 Because if you go to https://discord.com/users/461171501715161108 it will go to the website but if you go to https://discordredirect.discordsafe.com/users/461171501715161108 it will open on the client. That's it.
