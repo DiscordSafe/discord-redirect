@@ -1,13 +1,15 @@
-# discord-redirect
+![Header](./.github/header.png)
+
+# 👷‍♂️ discord-redirect
 Cloudflare worker to open Discord links in Discord client.
 
-## Why?
+## ❓ Why?
 Because if you go to https://discord.com/users/461171501715161108 it will go to the website but if you go to https://discordredirect.discordsafe.com/users/461171501715161108 it will open on the client. That's it.
 
-## Usage
+## ☁ Usage
 `https://discordredirect.discordsafe.com/ENDPOINT`
 
-## Examples
+## 📃 Examples
 * Users (UserID): https://discordredirect.discordsafe.com/users/287574458963722240.
 * Channels (GuildID, ChannelID): https://discordredirect.discordsafe.com/channels/374953833828319232/504679420263661588.
 * DM (UserID): https://discordredirect.discordsafe.com/channels/@me/287574458963722240.
@@ -20,7 +22,7 @@ Because if you go to https://discord.com/users/461171501715161108 it will go to 
 * Open the last changelog: https://discordredirect.discordsafe.com/settings/changelogs.
 * Create a guild: https://discordredirect.discordsafe.com/guilds/create
 
-## Common errors
+## 🐛 Common errors
 ### Not working
 1. Open the same link on another tab.
 2. Check site settings, allow pop-ups and redirects.
