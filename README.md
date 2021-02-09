@@ -9,6 +9,8 @@ Because if you go to https://discord.com/users/461171501715161108 it will go to 
 ## ☁ Usage
 `https://discordredirect.discordsafe.com/ENDPOINT`
 
+![Example](./.github/example.gif)
+
 ## 📃 Examples
 * Users (UserID): https://discordredirect.discordsafe.com/users/287574458963722240.
 * Channels (GuildID, ChannelID): https://discordredirect.discordsafe.com/channels/374953833828319232/504679420263661588.
